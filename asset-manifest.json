@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/tanya_lr/static/js/main.5b816b34.chunk.js",
-    "main.js.map": "/tanya_lr/static/js/main.5b816b34.chunk.js.map",
+    "main.js": "/tanya_lr/static/js/main.9175b08f.chunk.js",
+    "main.js.map": "/tanya_lr/static/js/main.9175b08f.chunk.js.map",
     "runtime-main.js": "/tanya_lr/static/js/runtime-main.1ca442af.js",
     "runtime-main.js.map": "/tanya_lr/static/js/runtime-main.1ca442af.js.map",
-    "static/js/2.98ef9ef3.chunk.js": "/tanya_lr/static/js/2.98ef9ef3.chunk.js",
-    "static/js/2.98ef9ef3.chunk.js.map": "/tanya_lr/static/js/2.98ef9ef3.chunk.js.map",
+    "static/js/2.6115905e.chunk.js": "/tanya_lr/static/js/2.6115905e.chunk.js",
+    "static/js/2.6115905e.chunk.js.map": "/tanya_lr/static/js/2.6115905e.chunk.js.map",
     "index.html": "/tanya_lr/index.html",
-    "static/js/2.98ef9ef3.chunk.js.LICENSE.txt": "/tanya_lr/static/js/2.98ef9ef3.chunk.js.LICENSE.txt",
+    "static/js/2.6115905e.chunk.js.LICENSE.txt": "/tanya_lr/static/js/2.6115905e.chunk.js.LICENSE.txt",
     "static/media/logo.4bda310b.png": "/tanya_lr/static/media/logo.4bda310b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1ca442af.js",
-    "static/js/2.98ef9ef3.chunk.js",
-    "static/js/main.5b816b34.chunk.js"
+    "static/js/2.6115905e.chunk.js",
+    "static/js/main.9175b08f.chunk.js"
   ]
 }
