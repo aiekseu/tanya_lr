@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/tanya_lr/static/js/main.69c06e9e.chunk.js",
+    "main.js.map": "/tanya_lr/static/js/main.69c06e9e.chunk.js.map",
+    "runtime-main.js": "/tanya_lr/static/js/runtime-main.1ca442af.js",
+    "runtime-main.js.map": "/tanya_lr/static/js/runtime-main.1ca442af.js.map",
+    "static/js/2.be1e894b.chunk.js": "/tanya_lr/static/js/2.be1e894b.chunk.js",
+    "static/js/2.be1e894b.chunk.js.map": "/tanya_lr/static/js/2.be1e894b.chunk.js.map",
+    "index.html": "/tanya_lr/index.html",
+    "static/js/2.be1e894b.chunk.js.LICENSE.txt": "/tanya_lr/static/js/2.be1e894b.chunk.js.LICENSE.txt",
+    "static/media/logo.4bda310b.png": "/tanya_lr/static/media/logo.4bda310b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ca442af.js",
+    "static/js/2.be1e894b.chunk.js",
+    "static/js/main.69c06e9e.chunk.js"
+  ]
+}
